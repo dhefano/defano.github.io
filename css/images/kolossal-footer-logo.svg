@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo Mark Mask</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,1.42108547e-14 L0,36 L36,36 L18,18 L36,1.42108547e-14 L0,1.42108547e-14 Z M4.12885698,4.12885698 L26.0324083,4.12885698 L4.12885698,26.0324083 L4.12885698,4.12885698 Z M15.0815059,20.9184941 L26.0324083,31.8693965 L4.12885698,31.8693965 L15.0815059,20.9184941 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Asset-/-Logo-Mark-(new)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Logo-Mark-Mask" fill="#F2D357" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>
